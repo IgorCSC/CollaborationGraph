@@ -1,2 +1,2 @@
 # CollaborationGraph
-Scripts for generating a collaboration graph from authos of a survey in neo4j cypher language
+Scripts for generating a collaboration graph from authors appearing in a survey in neo4j cypher language.
